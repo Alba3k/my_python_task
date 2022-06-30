@@ -10,5 +10,11 @@
   ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
 ```
+## basic operations
 
+## branch operations
+
+## file operations
+
+## working with classes
 
