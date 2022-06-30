@@ -1,4 +1,4 @@
-### Условия и решение задач на PYTHON
+## Условия и решение задач на PYTHON
 
 ```python
 
@@ -10,11 +10,11 @@
   ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
 ```
-## basic operations
+### basic operations
 
-## branch operations
+### branch operations
 
-## file operations
+### file operations
 
-## working with classes
+### working with classes
 
