@@ -15,22 +15,14 @@
 basic operations
 ```
 
-
 ```language
 branch operations
 ```
-
 
 ```language
 file operations
 ```
 
-
 ```language
 working with classes
 ```
-
-
-
-
-
