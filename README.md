@@ -28,7 +28,7 @@ working with classes
 ```
 
 ```language
-lesson_15
+myitschool
 ```
 ## Task_01.
 
