@@ -10,22 +10,6 @@
   ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
 ```
-
-```language
-basic operations
-```
-
-```language
-branch operations
-```
-
-```language
-file operations
-```
-
-```language
-working with classes
-```
 ### myitschool_lesson15_task_01.
 
 ```
@@ -43,3 +27,18 @@ working with classes
 - Прочитать файл из предыдущего задания и вывести стоимость всех покупок за день. 
 ```
 
+```language
+basic operations
+```
+
+```language
+branch operations
+```
+
+```language
+file operations
+```
+
+```language
+working with classes
+```
