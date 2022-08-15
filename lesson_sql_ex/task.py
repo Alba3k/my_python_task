@@ -54,24 +54,32 @@ SELECT AVG (speed) FROM pc
 SELECT AVG (speed) FROM laptop
 WHERE price > 1000
 
-
 # Задание 13
+SELECT AVG (speed) FROM pc
+INNER JOIN product ON pc.model = product.model
+WHERE maker = 'A'
 
 # Задание 14
+SELECT t1.class, t1.name, t2.country FROM Ships AS t1
+INNER JOIN Classes AS t2 ON t1.class = t2.class
+WHERE numGuns >= 10
 
-# Задание 8
+# Задание 15
+SELECT hd FROM PC
+GROUP BY hd
+HAVING COUNT (model) >=2
 
-# Задание 8
+# Задание 19
+SELECT t1.maker, AVG (t2.screen) AS Avg_sreen FROM product AS t1
+INNER JOIN laptop AS t2 ON t1.model = t2.model
+GROUP BY maker
 
-# Задание 8
+# Задание 21
+SELECT t1.Maker, MAX (t2.price) FROM product AS t1
+INNER JOIN PC AS t2 ON t1.model = t2.model
+GROUP BY t1.maker
 
-# Задание 8
-
-# Задание 8
-
-# Задание 8
-
-# Задание 8
-
-
-
+# Задание 22
+SELECT speed, AVG (price) AS Avg_speed FROM PC
+GROUP BY speed
+HAVING speed > 600
